@@ -1,6 +1,6 @@
 # Red Team Tool: *Crackers*
 
-**Crackers** is a tip calculator PHP page.
+**Crackers** is hash cracking SlackBot which automatically determines the hash type and then attempts to crack the hash based on the chosen wordlist.
 
 Created by: **Graham Thomas**
 
@@ -18,9 +18,14 @@ Potential future improvements:
 ## Video Walkthrough
 
 
-![alt text](https://github.com/GrahamMThomas/Crackers/blob/master/images/Crackers_example.rb "Demo")
+![alt text](https://github.com/GrahamMThomas/Crackers/blob/master/images/Crackers_example.gif "Demo")
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Library's Used
+Hashcat - https://github.com/hashcat/hashcat
+Hashid - https://github.com/psypanda/hashID
+Slack Ruby Bot - https://github.com/slack-ruby/slack-ruby-bot
 
 
 ## License
