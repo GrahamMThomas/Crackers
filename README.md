@@ -24,7 +24,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Library's Used
 Hashcat - https://github.com/hashcat/hashcat
+
 Hashid - https://github.com/psypanda/hashID
+
 Slack Ruby Bot - https://github.com/slack-ruby/slack-ruby-bot
 
 
